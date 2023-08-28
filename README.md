@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="" target="_blank">
+    <a href="https://quiz-app-bice-ten.vercel.app/" target="_blank">
       Demo
     </a>
     <span> | </span>
-    <a href="" target="_blank">
+    <a href="https://devchallenges.io/solutions/sNTGopiKGeaQj15QJHHA" target="_blank">
       Solution
     </a>
     <span> | </span>
